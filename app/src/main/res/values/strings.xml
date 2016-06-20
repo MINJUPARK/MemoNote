@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">메모노트</string>
+    <string name="btn_layout">레이아웃</string>
+    <string name="load_btn">불러오기</string>
+    <string name="save_btn">저장</string>
+    <string name="delete_btn">삭제</string>
+    <string name="paint">그림메모</string>
+    <string name="action_settings">설정</string>
+</resources>
