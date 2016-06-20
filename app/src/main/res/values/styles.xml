@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="actionBarStyle">@style/AppThemeActionBarLogo</item>
+    </style>
+
+    <style name="AppThemeActionBarLogo" parent="Widget.AppCompat.Light.ActionBar">
+        <item name="logo">@mipmap/memo_icon</item>
+        <item name="displayOptions">useLogo|showHome</item>
+    </style>
+
+    <style name="SplashTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">@drawable/splash_test</item>
+    </style>
+
+</resources>
